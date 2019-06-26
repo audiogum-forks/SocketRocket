@@ -15,6 +15,7 @@ PRODUCT_BUNDLE_IDENTIFIER = com.facebook.socketrocket.ios
 IPHONEOS_DEPLOYMENT_TARGET = 6.0
 
 INFOPLIST_FILE = $(SRCROOT)/SocketRocket/Resources/Info.plist
+CURRENT_PROJECT_VERSION = 0.5.1
 
 OTHER_CFLAGS[sdk=iphoneos9.*] = $(inherited) -fembed-bitcode
 OTHER_LDFLAGS = $(inherited) -Licucore

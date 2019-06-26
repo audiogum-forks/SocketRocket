@@ -17,3 +17,4 @@ PRODUCT_BUNDLE_IDENTIFIER = com.facebook.socketrocket.tests.ios
 IPHONEOS_DEPLOYMENT_TARGET = 7.0
 
 INFOPLIST_FILE = $(SRCROOT)/Tests/Resources/Info.plist
+CURRENT_PROJECT_VERSION = 0.5.1

@@ -15,3 +15,4 @@ PRODUCT_BUNDLE_IDENTIFIER = com.facebook.socketrocket.macos
 MACOSX_DEPLOYMENT_TARGET = 10.8
 
 INFOPLIST_FILE = $(SRCROOT)/SocketRocket/Resources/Info.plist
+CURRENT_PROJECT_VERSION = 0.5.1

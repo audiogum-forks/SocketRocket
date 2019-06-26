@@ -14,3 +14,4 @@ PRODUCT_NAME = SocketRocket
 PRODUCT_BUNDLE_IDENTIFIER = com.facebook.socketrocket.tvos
 
 INFOPLIST_FILE = $(SRCROOT)/SocketRocket/Resources/Info.plist
+CURRENT_PROJECT_VERSION = 0.5.1
